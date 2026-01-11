@@ -7,7 +7,7 @@ import { MessageCircle, Send } from "lucide-react";
 
 const Community = () => {
   const handleJoinWhatsApp = () => {
-    window.open("https://whatsapp.com/channel/0029Vb76dCNBvvsmyqrDAG1g", "_blank");
+    window.open("https://chat.whatsapp.com/BTSsLkyFOsXLrO62j5MeFW", "_blank");
   };
 
   const handleJoinTelegram = () => {
