@@ -198,7 +198,7 @@ const Broadcast = () => {
                 <Input
                   id="phone"
                   type="tel"
-                  placeholder="08012345678"
+                  placeholder="09167774023"
                   value={phoneNumber}
                   onChange={(e) => setPhoneNumber(e.target.value)}
                   className="bg-background/50"
